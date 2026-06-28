@@ -153,7 +153,7 @@ DDL-скрипт для создания витрины `messages_mart`:
 
 ### Основные чарты
 
-- **SMS по дням** — time series по `count(message_id)`. [<img src="https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/sms_by_day_edit.jpg?raw=true" width="400" alt="SMS по дням - time series">](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/sms_by_day_edit.jpg)
+- **SMS по дням** — time series по `count(message_id)`. [![SMS по дням](https://img.shields.io/badge/📊-SMS_по_дням-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/sms_by_day_edit.jpg)
 - **Доля доставленных сообщений** — big number по доле `delivery_status = 'DELIVRD'`.
 - **Кол-во доставленных сообщений** - big number по количеству сообщений в статусе `delivery_status = 'DELIVRD'`.
 - **Топ-10 стран по количеству SMS** — bar chart по `count(message_id)` с top 10.
