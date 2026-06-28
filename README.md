@@ -128,6 +128,8 @@ MergeTree использует сортировку данных по ключу
 
 DDL-скрипт для создания витрины `messages_mart` доступен по [ссылке](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/ddl/messages_mart.sql).
 
+[![DDL Schema](https://img.shields.io/badge/DDL-messages_mart.sql-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/ddl/messages_mart.sql)
+
 Этот вариант можно адаптировать под конкретный сценарий использования, если в проекте предполагаются другие доминирующие фильтры или частые выборки по отдельным атрибутам.
 
 ## Генерация данных
