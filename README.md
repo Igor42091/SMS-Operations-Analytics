@@ -1,4 +1,8 @@
-# SMS Operations Analytics
+## 🚀 SMS Operations Analytics
+
+[![SMS Operations Analytics](https://img.shields.io/badge/📊-SMS_Operations_Analytics-0055ff?style=for-the-badge&logo=clickhouse)](https://github.com/Igor42091/SMS-Operations-Analytics)
+
+**⭐ Полный цикл: ClickHouse → Superset → Дашборд**
 
 Тестовый проект по Data Engineer / Analytics Engineer: проектирование витрины SMS-сообщений в ClickHouse, генерация синтетических данных за 1 год в объеме 1 млн строк и сборка дашборда `SMS Operations` в Apache Superset.
 
