@@ -184,6 +184,7 @@ DDL-скрипт для создания витрины `messages_mart`:
 ## Скриншоты
 
 Скриншоты дашборда и чартов лежат в директории `screenshots/`.
+[![Screenshots](https://img.shields.io/badge/📸-Screenshots-blueviolet)](https://github.com/Igor42091/SMS-Operations-Analytics/tree/main/screenshots)
 
 ## Итог
 
