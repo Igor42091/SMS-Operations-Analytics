@@ -3,7 +3,7 @@
 **⭐ Полный цикл: Docker → ClickHouse → Superset → Дашборд**
 
 [![Статус](https://img.shields.io/badge/Статус-Завершён-brightgreen?style=for-the-badge)]()
-[![Docker](https://img.shields.io/badge/Docker-28.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-28.4.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-25.1.2-00BFFF?style=for-the-badge&logo=clickhouse)]()
 [![Superset](https://img.shields.io/badge/Superset-4.1-20B2AA?style=for-the-badge&logo=apachesuperset)]()
 
