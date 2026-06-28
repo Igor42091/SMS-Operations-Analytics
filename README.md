@@ -1,6 +1,5 @@
 ## 🚀 SMS Operations Analytics
 
-[![SMS Operations Analytics](https://img.shields.io/badge/📊-SMS_Operations_Analytics-0055ff?style=for-the-badge&logo=clickhouse)](https://github.com/Igor42091/SMS-Operations-Analytics)
 **⭐ Полный цикл: ClickHouse → Superset → Дашборд**
 
 [![Статус](https://img.shields.io/badge/Статус-Завершён-brightgreen?style=for-the-badge)]()
