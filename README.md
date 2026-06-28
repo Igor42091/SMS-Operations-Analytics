@@ -134,7 +134,7 @@ DDL-скрипт для создания витрины `messages_mart`:
 
 ## Генерация данных
 
-Генератор создает синтетические данные за 1 год в объеме 1 000 000 строк.  
+Генератор создает синтетические данные за 1 год в объеме 1 000 000 строк: 
 
 [![Generator Script](https://img.shields.io/badge/Generator-create_messages_mart.sql-green)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/generator/create_messages_mart.sql)
 
