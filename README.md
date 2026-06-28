@@ -3,8 +3,8 @@
 [![SMS Operations Analytics](https://img.shields.io/badge/📊-SMS_Operations_Analytics-0055ff?style=for-the-badge&logo=clickhouse)](https://github.com/Igor42091/SMS-Operations-Analytics)
 
 [![Статус](https://img.shields.io/badge/Статус-Завершён-brightgreen?style=for-the-badge)]()
-[![ClickHouse](https://img.shields.io/badge/ClickHouse-23.12-00BFFF?style=for-the-badge&logo=clickhouse)]()
-[![Superset](https://img.shields.io/badge/Superset-3.0-20B2AA?style=for-the-badge&logo=apachesuperset)]()
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-25.1.2-00BFFF?style=for-the-badge&logo=clickhouse)]()
+[![Superset](https://img.shields.io/badge/Superset-4.1-20B2AA?style=for-the-badge&logo=apachesuperset)]()
 
 **⭐ Полный цикл: ClickHouse → Superset → Дашборд**
 
