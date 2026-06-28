@@ -159,13 +159,6 @@ DDL-скрипт для создания витрины `messages_mart`:
 - **Топ-10 операторов по количеству SMS** — bar chart по `receiver_operator`. [![Top Operators](https://img.shields.io/badge/📱-Top_Operators-purple)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/top_operators_edit.jpg)
 - **Выручка** — time series и big number по `sum(price)` по валютам. [![Выручка](https://img.shields.io/badge/📊-Выручка-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/revenue_edit.jpg)
 
-### Дополнительные чарты
-
-- failed statuses;
-- delivery_time;
-- segment_count;
-- inbound / outbound по `direction`.
-
 ### Логика фильтрации
 
 Во всех запросах исключаются soft-delete записи через `WHERE deleted_at IS NULL`.  
