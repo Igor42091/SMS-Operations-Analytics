@@ -1,8 +1,9 @@
 ## 🚀 SMS Operations Analytics
 
-**⭐ Полный цикл: ClickHouse → Superset → Дашборд**
+**⭐ Полный цикл: Docker → ClickHouse → Superset → Дашборд**
 
 [![Статус](https://img.shields.io/badge/Статус-Завершён-brightgreen?style=for-the-badge)]()
+[![Docker](https://img.shields.io/badge/Docker-27.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-25.1.2-00BFFF?style=for-the-badge&logo=clickhouse)]()
 [![Superset](https://img.shields.io/badge/Superset-4.1-20B2AA?style=for-the-badge&logo=apachesuperset)]()
 
@@ -173,10 +174,10 @@ DDL-скрипт для создания витрины `messages_mart`:
 
 ### Порядок выполнения
 
-1. Поднимаются сервисы [![ClickHouse](https://img.shields.io/badge/ClickHouse-25.1.2-00BFFF?style=for-the-badge&logo=clickhouse)]() и [![Superset](https://img.shields.io/badge/Superset-4.1-20B2AA?style=for-the-badge&logo=apachesuperset)]() в `[![Docker](https://img.shields.io/badge/Docker-27.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()`.
-2. Создается таблица `messages_mart` в [![ClickHouse](https://img.shields.io/badge/ClickHouse-25.1.2-00BFFF?style=for-the-badge&logo=clickhouse)]().
-3. Генерируются данные в [![ClickHouse](https://img.shields.io/badge/ClickHouse-25.1.2-00BFFF?style=for-the-badge&logo=clickhouse)]() и встявляются в таблицу.
-4. Создаются датасет, чарты и дашборд в [![Superset](https://img.shields.io/badge/Superset-4.1-20B2AA?style=for-the-badge&logo=apachesuperset)]().
+1. Поднимаются сервисы ClickHouse и Superset в docker.
+2. Создается таблица `messages_mart` в ClickHouse.
+3. Генерируются данные в ClickHouse и встявляются в таблицу.
+4. Создаются датасет, чарты и дашборд в Superset.
 6. Проверяется корректность фильтров.
 
 ## Скриншоты
