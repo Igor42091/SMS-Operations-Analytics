@@ -156,8 +156,8 @@ DDL-скрипт для создания витрины `messages_mart`:
 - **SMS по дням** — time series по `count(message_id)`. [![SMS по дням](https://img.shields.io/badge/📊-SMS_по_дням-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/sms_by_day_edit.jpg)
 - **Доля доставленных сообщений** — big number по доле `delivery_status = 'DELIVRD'`. [![Доля доставленных сообщений](https://img.shields.io/badge/📊-Доля доставленных сообщений-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/delivery_rate_edit.jpg)
 - **Кол-во доставленных сообщений** - big number по количеству сообщений в статусе `delivery_status = 'DELIVRD'`. [![Кол-во доставленных сообщений](https://img.shields.io/badge/📊-Кол-во доставленных сообщений-blue)]()
-- **Топ-10 стран по количеству SMS** — bar chart по `count(message_id)` с top 10. [![Топ-10 стран по количеству SMS](https://img.shields.io/badge/📊-Топ-10 стран по количеству SMS-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/top_countries_edit.jpg)
-- **Топ-10 операторов по количеству SMS** — bar chart по `receiver_operator`. [![Топ-10 операторов по количеству SMS](https://img.shields.io/badge/📊-Топ-10 операторов по количеству SMS-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/top_operators_edit.jpg)
+- **Топ-10 стран по количеству SMS** — bar chart по `count(message_id)` с top 10. [![Топ-10 стран по количеству SMS](https://img.shields.io/badge/📊-Топ стран по количеству SMS-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/top_countries_edit.jpg)
+- **Топ-10 операторов по количеству SMS** — bar chart по `receiver_operator`. [![Топ-10 операторов по количеству SMS](https://img.shields.io/badge/📊-Топ операторов по количеству SMS-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/top_operators_edit.jpg)
 - **Выручка** — time series и big number по `sum(price)` по валютам. [![Выручка](https://img.shields.io/badge/📊-Выручка-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/revenue_edit.jpg)
 
 ### Дополнительные чарты
