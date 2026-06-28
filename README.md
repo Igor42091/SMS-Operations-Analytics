@@ -163,7 +163,7 @@ DDL-скрипт для создания витрины `messages_mart`:
 - **Доля доставленных сообщений** — big number по доле `delivery_status = 'DELIVRD'`. [![Delivery Rate](https://img.shields.io/badge/📈-Delivery_Rate-green)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/delivery_rate_edit.jpg)
 - **Топ-10 стран по количеству SMS** — bar chart по `count(message_id)` с top 10. [![Top Countries](https://img.shields.io/badge/🌍-Top_Countries-orange)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/top_countries_edit.jpg)
 - **Топ-10 операторов по количеству SMS** — bar chart по `receiver_operator`. [![Top Operators](https://img.shields.io/badge/📱-Top_Operators-purple)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/top_operators_edit.jpg)
-- **Выручка** — time series и big number по `sum(price)` по валютам. [![Выручка](https://img.shields.io/badge/📊-Выручка-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/revenue_edit.jpg)
+- **Выручка** — time series и big number по `sum(price)` по валютам. [![Выручка](https://img.shields.io/badge/💰-Выручка-gold)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/screenshots/revenue_edit.jpg)
 
 ### Логика фильтрации
 
