@@ -37,10 +37,10 @@
 ```text
 .
 ├── ddl/
-│   └── messages_mart.sql [![DDL Schema](https://img.shields.io/badge/DDL-messages_mart.sql-blue)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/ddl/messages_mart.sql)
+│   └── messages_mart.sql 
 ├── generator/
-│   └── create_messages_mart.sql [![Generator Script](https://img.shields.io/badge/Generator-create_messages_mart.sql-green)](https://github.com/Igor42091/SMS-Operations-Analytics/blob/main/generator/create_messages_mart.sql)
-├── screenshots/ [![Screenshots](https://img.shields.io/badge/📸-Screenshots-blueviolet)](https://github.com/Igor42091/SMS-Operations-Analytics/tree/main/screenshots)
+│   └── create_messages_mart.sql 
+├── screenshots/ 
 │   ├── dashboard_revenue.jpg
 |   ├── dashboard_delivery_statuses.jpg
 │   ├── dashboard_number_of_messages.jpg
