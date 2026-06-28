@@ -167,7 +167,7 @@ DDL-скрипт для создания витрины `messages_mart`:
 
 ### Порядок выполнения
 
-1. Поднимаются сервисы ClickHouse и Superset.
+1. Поднимаются сервисы ClickHouse и Superset в `docker`.
 2. Создается таблица `messages_mart` в ClickHouse.
 3. Генерируются данные в ClickHouse и встявляются в таблицу.
 4. Создаются датасет, чарты и дашборд в Superset.
